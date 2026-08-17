@@ -1,0 +1,3 @@
+torch>=2.0.0
+numpy
+# 评测规则 AI 时才需要：pip install rlcard

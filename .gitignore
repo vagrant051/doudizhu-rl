@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+checkpoints/
+douzero_checkpoints/
+*.ckpt
+*.tar
+eval_data.pkl
+vendor/
+.idea/
+.vscode/
+*.log
